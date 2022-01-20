@@ -1,4 +1,4 @@
-Demo Grading Contract
+Grading Contract
 ================
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
