@@ -28,6 +28,8 @@ I, Fanyi Zeng, agree to :
     below.
 4.  Complete a “Satisfactory” presentation based on the strongest of the
     two unessays. 10 minutes total in length.
+5.  Extensions are negotiable based on circumstances (including but not
+    limited to, being sick, schedule conflicts, etc.).
 
 ## SCHEDULE
 
